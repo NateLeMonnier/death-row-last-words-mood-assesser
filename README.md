@@ -5,7 +5,7 @@ Course:     DS 2500, University of Utah, Kahlert School of Computing
 GitHub ID:  NateLeMonnier
 Repo:       https://github.com/NateLeMonnier/death-row-last-words-mood-assesser 
 Commit Date: 3-31-2025 1:13 PM
-Project:    Final Project
+Project:    Death Row Last Words Mood Assesser
 Copyright:  Nathan LeMonnier - This work may not be copied for use in Academic Coursework.
 ```
 
